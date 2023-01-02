@@ -1,5 +1,3 @@
-known problems/assumptions:
- - does not handle protocols other than ICMP, UDP, TCP and GRE/ESP
- - assumes the handset has its own (routed) /64 ipv6 subnet
- - assumes the /128 ipv6 subnet it generates can use the nat64 gateway
- - assumes the nat64 gateway has the ipv4 address in the last 32 bits of the ipv6 address (that it uses a /96 plat subnet)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca4ded3311870f760a2d8d0ef3de311c89568a05d3c4e9b456b4bafc7c3c1af6
+size 349

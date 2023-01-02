@@ -1,28 +1,3 @@
-/*
- * Copyright 2011 Daniel Drown
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- *
- * getaddr.h - get a locally configured address
- */
-#ifndef __GETADDR_H__
-#define __GETADDR_H__
-
-union anyip {
-  struct in6_addr ip6;
-  struct in_addr ip4;
-};
-
-union anyip *getinterface_ip(const char *interface, int family);
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98a646e932e58f5370abeae0238146d765426a6485f7777b45370aa2489f2db
+size 824

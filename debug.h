@@ -1,24 +1,3 @@
-/*
- * Copyright 2011 Daniel Drown
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- *
- * debug.h - debug settings
- */
-#ifndef __DEBUG_H__
-#define __DEBUG_H__
-
-// set to 1 to enable debug logging and packet dumping.
-#define CLAT_DEBUG 0
-
-#endif /* __DEBUG_H__ */
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cab8e9a55ab6dac9d2e80f3d9310af7120508a06070ccb77f08a78fd3971881
+size 767
